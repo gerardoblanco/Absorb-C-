@@ -1,1 +1,1 @@
-# Absorb-C-
+# Absorb - an original card game in C#.
